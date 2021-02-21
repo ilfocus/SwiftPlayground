@@ -29,4 +29,11 @@ var s = Season.spring
 s.rawValue
 
 MemoryLayout<Season>.size
+
+
+let age = 21
+if case 0...9 = age {
+    print("[0...9]")
+}
+
 //: [Next](@next)

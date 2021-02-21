@@ -8,5 +8,8 @@
         <page name='05-函数调用'/>
         <page name='06-枚举类型'/>
         <page name='07-可选项'/>
+        <page name='08-柯⾥化 (Currying)'/>
+        <page name='09-内存管理'/>
+        <page name='10-函数式编程'/>
     </pages>
 </playground>
